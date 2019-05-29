@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Jxlwqq\HelloWorld\Test;
-
 
 use Jxlwqq\HelloWorld\HelloWorld;
 use PHPUnit\Framework\TestCase;
